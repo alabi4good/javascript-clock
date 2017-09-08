@@ -6,14 +6,16 @@ This is a simple javascript clock. No framework,no libraries, just pure javascri
 ## LANGUAGES USED
 ***
 
-HTML5  
+HTML5 
+ 
 CSS3
+
 JAVASCRIPT(ES6)
 
 
-## LIVE DEMO
+### LIVE DEMO
 
-https://alabi4good.github.io/googleHomePage-clone/  
+https://alabi4good.github.io/javascript-clock/  
 
 
  
